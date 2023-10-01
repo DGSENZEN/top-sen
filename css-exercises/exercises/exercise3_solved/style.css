@@ -1,0 +1,17 @@
+.buttonY,
+.buttonB
+{
+    
+    font: sans-serif, helvetica, times;
+    font-size: 28px;
+
+}
+
+.buttonB{
+    background-color: black;
+    color: white;
+}
+
+.buttonY{
+    background-color: yellow;
+}

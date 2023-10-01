@@ -1,0 +1,22 @@
+.odd,
+.oddS {
+    background-color: lightpink;
+    font: verdana;
+    font: sans-serif;
+    font: dejavu-sans;
+}
+
+.oddS{
+    font-size: 24px;
+}
+
+.blue{
+    color: blue;
+    font-size: 36px;
+}
+
+.green{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
